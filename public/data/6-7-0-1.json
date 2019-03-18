@@ -1,0 +1,8158 @@
+[
+	{
+		"0": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "0",
+					"year": 1970,
+					"scenarioValue": 0.03
+				},
+				{
+					"regionId": "0",
+					"year": 2000,
+					"scenarioValue": 0.42
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 0.72
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 0.901034588376638
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 1.06970557518484
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 1.22531834734454
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 1.36856433513186
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 1.50140562757563
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 1.62428425308944
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 1.73695799093425
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 1.84081696662216
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 1.93692510045167
+				}
+			],
+			"factor": {
+				"id": "0",
+				"unit": "Celcius",
+				"unitShort": "C",
+				"title": "Temperature Increase (world)"
+			}
+		}
+	},
+	{
+		"1": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "0",
+					"year": 2012,
+					"scenarioValue": 1.57727345041317
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 1.25907346942352
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 1.14233212781604
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 1.05982757556661
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 0.97918616588749
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 0.914413492963582
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 0.839009719999723
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 0.763697030145561
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 0.699690107236706
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 0.638078921729681
+				}
+			],
+			"factor": {
+				"id": "1",
+				"unit": "Number of earths",
+				"unitShort": "earths",
+				"title": "Required Earths (world)"
+			}
+		}
+	},
+	{
+		"2": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2012,
+					"scenarioValue": 0.814854406882111
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 0.60138772324645
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 0.532963973040485
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 0.476422767904973
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 0.435533542047965
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 0.38733519804865
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 0.341782707196185
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 0.301641755275741
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 0.267197545289517
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 0.235417583197318
+				},
+				{
+					"regionId": "2",
+					"year": 2012,
+					"scenarioValue": 4.95660455928561
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 4.03160748159053
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 3.54841715192546
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 3.01285554054187
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 2.77610222900473
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 2.45456158960505
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 2.16556277648518
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 1.91714254177819
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 1.74010242693018
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 1.56940091395609
+				},
+				{
+					"regionId": "3",
+					"year": 2012,
+					"scenarioValue": 1.81803325797726
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 1.43195358763862
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 1.64826635976159
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 1.73536535109861
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 1.66542933725296
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 1.51514664272908
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 1.38290997733169
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 1.27796226472641
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 1.17594577093746
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 1.0815211940899
+				},
+				{
+					"regionId": "4",
+					"year": 2012,
+					"scenarioValue": 4.65940159251119
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 2.61625744102682
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 2.331805425473
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 2.14750828253887
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 2.00493737229666
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 2.05575798538518
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 1.98606611972261
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 1.80786952895244
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 1.66347216214276
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 1.52140008092357
+				},
+				{
+					"regionId": "5",
+					"year": 2012,
+					"scenarioValue": 1.93097449860794
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 1.71486494334495
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 1.63567259998424
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 1.6217581978689
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 1.57196266411519
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 1.52084409173888
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 1.4191932504223
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 1.30649282581733
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 1.2130901063567
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 1.12108084249678
+				},
+				{
+					"regionId": "6",
+					"year": 2012,
+					"scenarioValue": 1.58736684980022
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 1.02115611587227
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 0.901257576106766
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 0.8302752245489
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 0.765427128769917
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 0.676994675796108
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 0.595247718668066
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 0.527576622225632
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 0.470045285308223
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 0.416240031802814
+				},
+				{
+					"regionId": "7",
+					"year": 2012,
+					"scenarioValue": 2.67115415884957
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 2.02032476967954
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 1.48954147630881
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 1.24151292102705
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 1.14844399136184
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 1.19840067495618
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 1.17757658705673
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 1.09143142585684
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 1.01071822883753
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 0.930679709370833
+				},
+				{
+					"regionId": "8",
+					"year": 2012,
+					"scenarioValue": 0.666442526068227
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 0.64058625405777
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 0.714470149825141
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 0.681454183343889
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 0.587253683178778
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 0.506488506808985
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 0.438704765748217
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 0.385308503569287
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 0.339949429145429
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 0.298201322875754
+				},
+				{
+					"regionId": "9",
+					"year": 2012,
+					"scenarioValue": 2.85943716313034
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 2.67143173475143
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 2.52144495074104
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 2.26321534492404
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 2.12479145495258
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 2.00859326879607
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 1.90724020164033
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 1.80954832588508
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 1.72523643161253
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 1.64376871299907
+				},
+				{
+					"regionId": "10",
+					"year": 2012,
+					"scenarioValue": 1.78970943923085
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 1.02645700053918
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 0.840393524783096
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 0.690956110928185
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 0.618094589158533
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 0.54729042522905
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 0.483059441813499
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 0.426545352103958
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 0.376673056169554
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 0.330818439350241
+				},
+				{
+					"regionId": "11",
+					"year": 2012,
+					"scenarioValue": 1.64617000028819
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 0.804356404150436
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 0.741348420973546
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 0.674028451103301
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 0.607129738731015
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 0.551828596065971
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 0.493402072884173
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 0.441613629281175
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 0.396471819783583
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 0.353554235844595
+				},
+				{
+					"regionId": "12",
+					"year": 2012,
+					"scenarioValue": 0.781771033086958
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 0.681866118447657
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 0.662842529757952
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 0.613086442760211
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 0.539697486052383
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 0.482027305774568
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 0.42645923502105
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 0.377195050580113
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 0.334726082170713
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 0.295709958328541
+				},
+				{
+					"regionId": "13",
+					"year": 2012,
+					"scenarioValue": 1.73859530875977
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 1.51152115991187
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 1.69217762368141
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 1.67660957015225
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 1.62233891410938
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 1.47542864294246
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 1.32493331672542
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 1.17399368047071
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 1.08947056366172
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 1.00638128664794
+				},
+				{
+					"regionId": "14",
+					"year": 2012,
+					"scenarioValue": 3.23537910091242
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 2.16073350502366
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 1.96007318456362
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 1.83532536519688
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 1.68803912929268
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 1.54103807431324
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 1.41676883281814
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 1.31532701702755
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 1.20441225433584
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 1.09544566863217
+				},
+				{
+					"regionId": "15",
+					"year": 2012,
+					"scenarioValue": 3.23537910091242
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 3.04919391865
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 2.60446825143653
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 2.32493187371694
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 2.19063721398083
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 2.10093082035845
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 2.05106912027775
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 2.05401679432479
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 1.95313061763988
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 1.84277283210404
+				},
+				{
+					"regionId": "16",
+					"year": 2012,
+					"scenarioValue": 4.67648986241038
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 3.98382226539066
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 3.15223156826936
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 2.79369255393108
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 2.52188986690018
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 2.34182907213698
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 2.15246210197982
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 1.9690898385067
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 1.83763108942127
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 1.70308234484681
+				}
+			],
+			"factor": {
+				"id": "2",
+				"unit": "Number of earths",
+				"unitShort": "earths",
+				"title": "Required Earths"
+			}
+		}
+	},
+	{
+		"3": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2000,
+					"scenarioValue": 805.514439
+				},
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 1032.023133
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 1104.80707046762
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 1039.92764249357
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 967.805763876797
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 887.840142797844
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 799.232376197297
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 713.552730614678
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 635.824649122892
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 563.956280088497
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 497.233149738793
+				},
+				{
+					"regionId": "2",
+					"year": 2000,
+					"scenarioValue": 23.0107
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 26.38245
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 26.7275596943993
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 25.1579926356178
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 23.4132157713765
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 21.4786826134897
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 19.3350781466925
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 17.2623109612551
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 15.381908496847
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 13.643264551807
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 12.0290945332679
+				},
+				{
+					"regionId": "3",
+					"year": 2000,
+					"scenarioValue": 64.476843
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 71.317704
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 72.0745961946543
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 67.8420394908034
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 63.1370050851999
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 57.9202663415922
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 52.1397376247172
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 46.5502315267388
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 41.4794637553718
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 36.7909676226217
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 32.4381328106914
+				},
+				{
+					"regionId": "4",
+					"year": 2000,
+					"scenarioValue": 30.7697
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 34.005274
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 33.7680111831616
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 31.7849959509569
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 29.5806179479711
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 27.136498916655
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 24.428235968794
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 21.8094699348487
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 19.4337404566247
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 17.2371108783564
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 15.1977435788055
+				},
+				{
+					"regionId": "5",
+					"year": 2000,
+					"scenarioValue": 1269.741907
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 1345.263826
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 1298.95702064436
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 1222.67620138186
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 1137.88020117915
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 1043.86206200601
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 939.683075840868
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 838.946775240657
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 747.559382949406
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 663.061442073653
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 584.61292293951
+				},
+				{
+					"regionId": "6",
+					"year": 2000,
+					"scenarioValue": 422.705601
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 479.655398
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 476.128823559096
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 448.168316661367
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 417.086595574857
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 382.624526941119
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 344.438030133255
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 307.513439456128
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 274.01566324935
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 243.043194920582
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 214.288124097097
+				},
+				{
+					"regionId": "7",
+					"year": 2000,
+					"scenarioValue": 500.323335
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 518.018845
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 493.609385724839
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 464.622338624485
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 432.399485283873
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 396.672178539557
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 357.083705211237
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 318.803467551952
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 284.07585620304
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 251.966266718698
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 222.155484125122
+				},
+				{
+					"regionId": "8",
+					"year": 2000,
+					"scenarioValue": 1053.481072
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 1230.984504
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 1234.85015992308
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 1162.33399474723
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 1081.72289465155
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 992.344791797904
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 893.307305813314
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 797.54260003073
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 710.665409952629
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 630.337659191611
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 555.760775692825
+				},
+				{
+					"regionId": "9",
+					"year": 2000,
+					"scenarioValue": 126.843
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 128.07
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 119.5794412375
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 112.557178299174
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 104.75102446786
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 96.095898570826
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 86.5053849846742
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 77.2317982942305
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 68.8188538067224
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 61.0401387337406
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 53.8183215874607
+				},
+				{
+					"regionId": "10",
+					"year": 2000,
+					"scenarioValue": 230.977677
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 285.673339
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 295.798225207811
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 278.427572756159
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 259.117845054591
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 237.70805376607
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 213.984436493258
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 191.044786868238
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 170.234068717831
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 150.992215024809
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 133.127934404847
+				},
+				{
+					"regionId": "11",
+					"year": 2000,
+					"scenarioValue": 102.80859
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 118.617542
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 119.634778476684
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 112.609265877381
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 104.799499627435
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 96.14036843679
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 86.5454166918818
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 77.267538505513
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 68.850700797594
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 61.0683860036895
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 53.8432268496311
+				},
+				{
+					"regionId": "12",
+					"year": 2000,
+					"scenarioValue": 875.941674
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 1016.395903
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 1026.72604984678
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 966.431903854468
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 899.407159427016
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 825.093020380833
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 742.747509911735
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 663.123178738618
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 590.888443638262
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 524.09929228319
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 462.091745546215
+				},
+				{
+					"regionId": "13",
+					"year": 2000,
+					"scenarioValue": 79.835692
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 75.644331
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 70.418615749004
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 66.283305946374
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 61.6863740537662
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 56.5894947031428
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 50.9417789748388
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 45.4806969442545
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 40.526434747905
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 35.9456611460501
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 31.6928367360129
+				},
+				{
+					"regionId": "14",
+					"year": 2000,
+					"scenarioValue": 146.596557
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 142.849449
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 135.721673328465
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 127.751463176294
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 118.891543366658
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 109.068047308661
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 98.1828939869741
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 87.6574500615103
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 78.1088278932875
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 69.2800508466244
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 61.08334832467
+				},
+				{
+					"regionId": "15",
+					"year": 2000,
+					"scenarioValue": 47.008111
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 49.410366
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 47.6751008644257
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 44.8753964134216
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 41.7631626764205
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 38.312452455122
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 34.4888127238297
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 30.7915285061874
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 27.4373735372563
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 24.3360793527193
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 21.4568146788736
+				},
+				{
+					"regionId": "16",
+					"year": 2000,
+					"scenarioValue": 282.162411
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 309.346863
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 302.737440781553
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 284.959285201936
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 265.196565048851
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 243.284515313595
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 219.004358885319
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 195.526561427185
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 174.227638658956
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 154.534384790289
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 136.2510208773
+				}
+			],
+			"factor": {
+				"id": "3",
+				"unit": "Million persons",
+				"unitShort": "mill",
+				"title": "Population"
+			}
+		}
+	},
+	{
+		"4": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2000,
+					"scenarioValue": 1450.85309139547
+				},
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 1895.00562473629
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 1345.11602590957
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 1508.88576558495
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 1670.98344966199
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 1821.07427785626
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 1953.46951426114
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 2066.44555352593
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 2169.15205702626
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 2277.11059128333
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 2397.4849132079
+				},
+				{
+					"regionId": "2",
+					"year": 2000,
+					"scenarioValue": 41733.1929525014
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 48851.9841310991
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 60315.8857168797
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 62661.5851157296
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 66482.757422279
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 71663.0806716954
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 77545.8413142847
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 84177.2445164843
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 91271.5100746668
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 98638.9622381164
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 106605.30684246
+				},
+				{
+					"regionId": "3",
+					"year": 2000,
+					"scenarioValue": 1933.55656363783
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 4046.10838374483
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 6747.44185607038
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 10363.4759174147
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 12248.6290047587
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 13370.8189815475
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 14502.7536753936
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 15782.7914755962
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 17248.9889701584
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 18987.5760025512
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 21079.0250510447
+				},
+				{
+					"regionId": "4",
+					"year": 2000,
+					"scenarioValue": 43636.7066764589
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 47445.7619347846
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 49814.3126756919
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 52398.2096319045
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 56270.5551721347
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 61076.2144474696
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 66592.9096680802
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 73093.9034104188
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 80244.9457873559
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 87780.8373102038
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 95981.5680014391
+				},
+				{
+					"regionId": "5",
+					"year": 2000,
+					"scenarioValue": 1889.41652421013
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 4725.75086928048
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 9681.53288145352
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 14247.0843718537
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 17454.381328597
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 19706.9059358494
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 21233.9546809276
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 22277.8946758752
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 23224.5818706911
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 24158.4867335363
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 25151.086159402
+				},
+				{
+					"regionId": "6",
+					"year": 2000,
+					"scenarioValue": 7080.3140400346
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 8908.83260652436
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 8661.21420337764
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 9945.40468627508
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 11133.4692766245
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 12410.3873432944
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 13690.803163042
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 14868.5345849586
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 16034.640646462
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 17198.8595544032
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 18480.9332255448
+				},
+				{
+					"regionId": "7",
+					"year": 2000,
+					"scenarioValue": 31271.07759805
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 34806.5619338586
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 35246.3428882496
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 38948.9421254463
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 43734.8114826913
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 49082.2278518487
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 54841.1526493787
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 61205.0726566777
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 68062.1244999699
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 75403.0465545986
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 83518.7739028208
+				},
+				{
+					"regionId": "8",
+					"year": 2000,
+					"scenarioValue": 770.347836875187
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 1345.7213825728
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 2454.04920753893
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 3918.22754760882
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 4743.98871780589
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 5065.11028145413
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 5208.77894318499
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 5368.68378859743
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 5553.60267174744
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 5746.48100665042
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 5955.61483602712
+				},
+				{
+					"regionId": "9",
+					"year": 2000,
+					"scenarioValue": 42169.6858656681
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 44507.6637099867
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 44681.6636645463
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 46280.1191708637
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 50208.6605225415
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 55316.4975977672
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 61795.8831704654
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 69641.5745921767
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 78019.1946313167
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 87476.0940095811
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 98653.9035436011
+				},
+				{
+					"regionId": "10",
+					"year": 2000,
+					"scenarioValue": 8355.8155397112
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 10584.1710371314
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 7293.64177206075
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 8183.02430451094
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 9040.37756806762
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 9809.29683530386
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 10549.2630999587
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 11375.1456154238
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 12181.1500178964
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 13004.784722756
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 13956.7093626748
+				},
+				{
+					"regionId": "11",
+					"year": 2000,
+					"scenarioValue": 8568.07534151005
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 8861.49371999101
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 9315.73699679976
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 11630.218320089
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 13755.8632176451
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 15842.2374108329
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 18146.5622431779
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 20121.2369646183
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 21955.9181644629
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 23918.4333952775
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 26086.251029303
+				},
+				{
+					"regionId": "12",
+					"year": 2000,
+					"scenarioValue": 1686.96711380122
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 2360.00628625555
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 2295.77722976495
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 3021.48871202757
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 3538.57053343911
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 3930.63751404513
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 4288.0045211176
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 4607.10462578734
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 4882.57005093055
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 5154.30146280929
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 5466.83441083388
+				},
+				{
+					"regionId": "13",
+					"year": 2000,
+					"scenarioValue": 2176.79404988907
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 3690.19408187968
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 6308.16353825923
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 9862.78818556744
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 11975.8740451411
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 13252.9061773605
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 14437.8329126312
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 15911.810321587
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 17667.1620272863
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 19691.2102659935
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 22019.3328115352
+				},
+				{
+					"regionId": "14",
+					"year": 2000,
+					"scenarioValue": 6491.00135927102
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 10674.9823156144
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 11148.8878830724
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 13050.4976891575
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 14288.2987143098
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 15552.1516312051
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 16955.2957351893
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 18742.1553328815
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 20851.5021596796
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 23265.3698878405
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 26032.5300587294
+				},
+				{
+					"regionId": "15",
+					"year": 2000,
+					"scenarioValue": 15104.5196775249
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 22151.2088921324
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 23390.520927212
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 24072.8584566042
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 25426.3812562746
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 27202.2310011638
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 29414.4566189771
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 31979.761496241
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 35017.1910537091
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 38533.2295747355
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 42293.6716547499
+				},
+				{
+					"regionId": "16",
+					"year": 2000,
+					"scenarioValue": 45055.817918284
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 48374.0867933094
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 49781.3193375502
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 55651.7011151307
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 61765.1665036086
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 68528.4927324273
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 75955.6294686126
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 84296.1390259193
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 93653.0032673191
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 103928.858427457
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 115255.523764364
+				},
+				{
+					"regionId": "0",
+					"year": 2000,
+					"scenarioValue": 8187.0376918396
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 9543.09201928396
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 10425.3847744119
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 12548.5749554206
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 14356.7098897856
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 15960.6021743941
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 17483.9184997114
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 19030.6436704177
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 20660.2927506355
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 22404.2286379166
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 24340.8698270812
+				}
+			],
+			"factor": {
+				"id": "4",
+				"unit": "2010$GDP/capita",
+				"unitShort": "2010$/cap",
+				"title": "Affluence"
+			}
+		}
+	},
+	{
+		"5": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2000,
+					"scenarioValue": 1.16868311398683
+				},
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 1.95568964189297
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 1.4860936960242
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 1.56913201699687
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 1.6171874139256
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 1.61682284689738
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 1.56127608171191
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 1.47451786738499
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 1.37920034555292
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 1.28419081841026
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 1.1921089748456
+				},
+				{
+					"regionId": "2",
+					"year": 2000,
+					"scenarioValue": 0.960309983072124
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 1.28883502873952
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 1.61209643601847
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 1.57643969687767
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 1.5565751446039
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 1.53922856485225
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 1.49935490176271
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 1.45309377070516
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 1.40393001633757
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 1.34575745693032
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 1.28236531375598
+				},
+				{
+					"regionId": "3",
+					"year": 2000,
+					"scenarioValue": 0.124669622985296
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 0.288559160063832
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 0.486319147123182
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 0.703079342451241
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 0.773341751760176
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 0.77444139661645
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 0.756169771470926
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 0.734692597327242
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 0.715478812804495
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 0.698571293941927
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 0.683764214125679
+				},
+				{
+					"regionId": "4",
+					"year": 2000,
+					"scenarioValue": 1.34268837342264
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 1.61340613473112
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 1.68213026751427
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 1.66547688098748
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 1.66451779426715
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 1.65739462718715
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 1.62674731122045
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 1.59413928885027
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 1.55945944938739
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 1.51308802571095
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 1.45870325877756
+				},
+				{
+					"regionId": "5",
+					"year": 2000,
+					"scenarioValue": 2.39907134056788
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 6.35738169513108
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 12.5758951069633
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 17.4195710005449
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 19.8609949376415
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 20.5712914659543
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 19.9531878468396
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 18.6899678974765
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 17.3617540925118
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 16.0185610518558
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 14.7036499947515
+				},
+				{
+					"regionId": "6",
+					"year": 2000,
+					"scenarioValue": 2.99288840156156
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 4.27316964959782
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 4.12385372924753
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 4.45721527676397
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 4.64362079752459
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 4.74851858638407
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 4.71563327242034
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 4.572274209893
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 4.39374269170528
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 4.18006577509254
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 3.9602445124657
+				},
+				{
+					"regionId": "7",
+					"year": 2000,
+					"scenarioValue": 15.6456498329002
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 18.0304550113984
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 17.3979256621159
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 18.0965485772746
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 18.9109099741029
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 19.4695542495677
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 19.5828819860952
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 19.512389394718
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 19.3348062923268
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 18.9990241395784
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 18.5541536499178
+				},
+				{
+					"regionId": "8",
+					"year": 2000,
+					"scenarioValue": 0.811546865004153
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 1.65656216864857
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 3.03038305638855
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 4.55428907774081
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 5.13168120801929
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 5.02633580768302
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 4.65304028431371
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 4.28175402750083
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 3.94675331943141
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 3.62222338632108
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 3.30989712099813
+				},
+				{
+					"regionId": "9",
+					"year": 2000,
+					"scenarioValue": 5.34892946425894
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 5.70009649133799
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 5.34300837456833
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 5.20915962522191
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 5.25940862689523
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 5.31568854244838
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 5.34567666412906
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 5.3785440417956
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 5.36919154945081
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 5.33955291423057
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 5.30938750676785
+				},
+				{
+					"regionId": "10",
+					"year": 2000,
+					"scenarioValue": 1.93000686280299
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 3.02361548072442
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 2.15744629147712
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 2.27837959490963
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 2.34252315391755
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 2.33174885953375
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 2.25737811986379
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 2.17316226969381
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 2.07364672920877
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 1.96362125120972
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 1.85802788854169
+				},
+				{
+					"regionId": "11",
+					"year": 2000,
+					"scenarioValue": 0.880871744874416
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 1.05112860351377
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 1.11448613195919
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 1.30967034701889
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 1.44160758215264
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 1.52307854154058
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 1.570501790861
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 1.55471845194219
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 1.51168035227789
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 1.46066012318635
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 1.40456793182718
+				},
+				{
+					"regionId": "12",
+					"year": 2000,
+					"scenarioValue": 1.47768479764599
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 2.39870072040438
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 2.35713428644475
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 2.92006308843958
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 3.18261567191261
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 3.2431415784857
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 3.18490468055036
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 3.05507786423349
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 2.88505421834914
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 2.70136574887256
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 2.52617905551434
+				},
+				{
+					"regionId": "13",
+					"year": 2000,
+					"scenarioValue": 0.173785859314377
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 0.279142262583948
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 0.444212144282554
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 0.65373820678825
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 0.738748245969362
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 0.749975263924991
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 0.735488893110913
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 0.723680223070557
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 0.715987089079482
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 0.707813571777026
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 0.697855119831916
+				},
+				{
+					"regionId": "14",
+					"year": 2000,
+					"scenarioValue": 0.951558450751452
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 1.52491534187026
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 1.51314571924203
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 1.66722017496871
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 1.69875788622812
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 1.69624280986376
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 1.66472000368588
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 1.64288954513713
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 1.62868639350693
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 1.61182600879512
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 1.59015410134981
+				},
+				{
+					"regionId": "15",
+					"year": 2000,
+					"scenarioValue": 0.710034937602774
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 1.09449933870272
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 1.11514544447629
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 1.0802790660443
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 1.06188609667848
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 1.04218418190533
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 1.01446968570511
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 0.984705737732579
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 0.960779751166085
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 0.937747732647313
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 0.907487474785099
+				},
+				{
+					"regionId": "16",
+					"year": 2000,
+					"scenarioValue": 12.7130582134
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 14.964372
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 15.0706692149792
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 15.8584689700394
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 16.3799099964273
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 16.6719211395798
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 16.6346139355043
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 16.482134205326
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 16.3169416125845
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 16.0605821990442
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 15.7036827746425
+				}
+			],
+			"factor": {
+				"id": "5",
+				"unit": "2010$GDP",
+				"unitShort": "bill 2010$",
+				"title": "Gross Domestic Product"
+			}
+		}
+	},
+	{
+		"6": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "0",
+					"year": 2000,
+					"scenarioValue": 0.480583664527278
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 0.486011802621078
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 0.418116911614618
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 0.347915868130343
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 0.30583109462527
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 0.279741742045226
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 0.271231984960296
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 0.260411979787028
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 0.248255164487801
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 0.240643879083943
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 0.232978701741549
+				},
+				{
+					"regionId": "1",
+					"year": 2000,
+					"scenarioValue": 0.770987371036419
+				},
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 0.624000404256368
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 0.420466757362866
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 0.311230743732913
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 0.221565659282588
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 0.205155017292205
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 0.180053059074228
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 0.160093515224553
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 0.145276385743178
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 0.141553543606587
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 0.137830701469995
+				},
+				{
+					"regionId": "2",
+					"year": 2000,
+					"scenarioValue": 0.377403426381729
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 0.313908633749408
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 0.261359784567458
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 0.24649814574117
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 0.203799368102987
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 0.19123516620107
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 0.172212323076893
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 0.156062144161828
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 0.142784629455875
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 0.137461435824349
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 0.132138242192823
+				},
+				{
+					"regionId": "3",
+					"year": 2000,
+					"scenarioValue": 2.55749536547171
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 1.5764994322113
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 0.88459829701026
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 0.793358888769139
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 0.788492073206316
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 0.764131547367743
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 0.713708719547491
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 0.673487968750251
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 0.643469294976024
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 0.61005785220436
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 0.576646409432696
+				},
+				{
+					"regionId": "4",
+					"year": 2000,
+					"scenarioValue": 0.398069720107542
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 0.305309431640466
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 0.138012574189172
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 0.129456921679381
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 0.119876314509838
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 0.114602273550012
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 0.132755552298098
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 0.137944560281906
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 0.130169297501437
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 0.126175986214527
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 0.122182674927617
+				},
+				{
+					"regionId": "5",
+					"year": 2000,
+					"scenarioValue": 1.43691226130191
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 1.3858881924217
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 0.815410488537023
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 0.590280692301407
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 0.525609545981581
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 0.499625830810289
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 0.507817177961799
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 0.511665780815685
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 0.511171639371946
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 0.519602590908916
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 0.528033542445886
+				},
+				{
+					"regionId": "6",
+					"year": 2000,
+					"scenarioValue": 0.323885871281116
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 0.298577877326049
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 0.235503874848405
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 0.218265491327088
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 0.197041355658194
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 0.180646025173308
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 0.158325907331381
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 0.141610071363005
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 0.130498517268179
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 0.123697152091513
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 0.116895786914847
+				},
+				{
+					"regionId": "7",
+					"year": 2000,
+					"scenarioValue": 0.255170848401735
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 0.211622931923391
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 0.183191328346357
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 0.121364948105338
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 0.0878284764329467
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 0.0772708289220386
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 0.0895838274601208
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 0.0937813531359333
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 0.089863405949476
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 0.0867387286531171
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 0.0836140513567583
+				},
+				{
+					"regionId": "8",
+					"year": 2000,
+					"scenarioValue": 1.27146503485627
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 1.03810833094355
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 0.633209334109317
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 0.540916504387255
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 0.467264488352567
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 0.395615420546335
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 0.358976430039232
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 0.331811000369137
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 0.314119131536048
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 0.302122640946619
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 0.290126150357189
+				},
+				{
+					"regionId": "9",
+					"year": 2000,
+					"scenarioValue": 0.228181724054403
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 0.205582693166819
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 0.23409091618976
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 0.234133012033626
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 0.207300281673454
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 0.193891029655779
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 0.184295195219391
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 0.176097324131462
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 0.169297416391992
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 0.164232703993374
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 0.159167991594757
+				},
+				{
+					"regionId": "10",
+					"year": 2000,
+					"scenarioValue": 0.756178562548385
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 0.760861564345503
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 0.612901822678037
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 0.459118004210107
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 0.329644339733818
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 0.290217708759101
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 0.262317815638916
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 0.238989187110795
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 0.220231823174737
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 0.205598102031693
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 0.190964380888649
+				},
+				{
+					"regionId": "11",
+					"year": 2000,
+					"scenarioValue": 0.434238513410977
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 0.423509357001499
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 0.170756877093612
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 0.150657150850111
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 0.123629223908957
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 0.103634146277246
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 0.0924225894156942
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 0.0837067160433963
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 0.0774865261603524
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 0.0729109767536966
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 0.0683354273470408
+				},
+				{
+					"regionId": "12",
+					"year": 2000,
+					"scenarioValue": 0.702315946737892
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 0.673852787048711
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 0.758629339508279
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 0.653818001055129
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 0.55851033474706
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 0.46587965272362
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 0.423700258694384
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 0.390143627456182
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 0.365209759009015
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 0.348719399536493
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 0.332229040063971
+				},
+				{
+					"regionId": "13",
+					"year": 2000,
+					"scenarioValue": 2.80192315818595
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 1.63077317202407
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 1.01566477664869
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 0.876768041501097
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 0.788200844326736
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 0.76320786695137
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 0.709453468556877
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 0.647774182195143
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 0.578170007866169
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 0.54798046022398
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 0.517790912581789
+				},
+				{
+					"regionId": "14",
+					"year": 2000,
+					"scenarioValue": 1.6372081817672
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 1.09843929168266
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 0.808916736982678
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 0.693887106982021
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 0.644976892021367
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 0.595887219255202
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 0.558300228685997
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 0.527082042165282
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 0.502232659693057
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 0.470698708490301
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 0.439164757287545
+				},
+				{
+					"regionId": "15",
+					"year": 2000,
+					"scenarioValue": 0.630336612042021
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 0.517786073467816
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 0.577566541286652
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 0.523421720456039
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 0.475115256613952
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 0.458758192217321
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 0.456853442861669
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 0.465647235976878
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 0.485139571562948
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 0.47604526606169
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 0.466950960560433
+				},
+				{
+					"regionId": "16",
+					"year": 2000,
+					"scenarioValue": 0.448501784959191
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 0.361449782456624
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 0.331004443184552
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 0.249369345676299
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 0.21269233371215
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 0.188169745240768
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 0.177078319804574
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 0.165892397459634
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 0.154611978205949
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 0.148723679346938
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 0.142835380487927
+				}
+			],
+			"factor": {
+				"id": "6",
+				"unit": "kgCO2/2010$GDP",
+				"unitShort": "tCO2/2010$GDP",
+				"title": "Technology Factor"
+			}
+		}
+	},
+	{
+		"7": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "0",
+					"year": 1960,
+					"scenarioValue": 3003.434659
+				},
+				{
+					"regionId": "0",
+					"year": 1970,
+					"scenarioValue": 3645.410487
+				},
+				{
+					"regionId": "0",
+					"year": 1980,
+					"scenarioValue": 4389.92738
+				},
+				{
+					"regionId": "0",
+					"year": 1990,
+					"scenarioValue": 5235.154729
+				},
+				{
+					"regionId": "0",
+					"year": 2000,
+					"scenarioValue": 6062.197309
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 6863.658927
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 6859.21395288343
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 6456.4088935111
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 6008.63895309337
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 5512.17100088921
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 4962.04813758868
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 4430.10456466272
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 3947.52841598398
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 3501.33239422694
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 3087.08067652112
+				}
+			],
+			"factor": {
+				"id": "7",
+				"unit": "Million persons",
+				"unitShort": "mill",
+				"title": "Population (world)"
+			}
+		}
+	},
+	{
+		"8": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2000,
+					"scenarioValue": 5.276645122505
+				},
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 5.66144116230723
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 1.80767316322958
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 1.4279722906502
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 1.07459842719102
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 0.86279020779646
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 0.676610186166486
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 0.53209577869118
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 0.427199544914908
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 0.360181089033488
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 0.304074079484352
+				},
+				{
+					"regionId": "2",
+					"year": 2000,
+					"scenarioValue": 1.155667239
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 0.858244350027434
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 0.603866515770027
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 0.519631939044008
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 0.400125099978341
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 0.36297050071211
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 0.317073273628525
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 0.277941056183087
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 0.245764893637734
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 0.228495560957343
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 0.210878305494975
+				},
+				{
+					"regionId": "3",
+					"year": 2000,
+					"scenarioValue": 0.507651007612
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 0.695693191705024
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 0.536266331516115
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 0.631527647508774
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 0.666495497902544
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 0.634378767238291
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 0.574579044210586
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 0.523803754773472
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 0.485146483248358
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 0.449254084367075
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 0.415943384300522
+				},
+				{
+					"regionId": "4",
+					"year": 2000,
+					"scenarioValue": 0.760643
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 0.764137675301163
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 0.355700370585414
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 0.313418850399516
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 0.279492191237996
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 0.257826160917042
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 0.272226494932746
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 0.266370784567235
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 0.243558516261647
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 0.227506219594273
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 0.210950634531256
+				},
+				{
+					"regionId": "5",
+					"year": 2000,
+					"scenarioValue": 5.128905672882
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 11.240433860554
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 11.4269262076177
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 11.1674557874778
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 11.3085430531962
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 11.1033753153731
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 10.883214106532
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 10.2295978214687
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 9.47305008939705
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 8.92904469209587
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 8.37151382822583
+				},
+				{
+					"regionId": "6",
+					"year": 2000,
+					"scenarioValue": 2.60053952619867
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 4.41503592434082
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 2.33034236220627
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 2.19239488172658
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 1.98832431260083
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 1.76774224297865
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 1.51556153526536
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 1.30092862172767
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 1.14562333652162
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 1.02537195937671
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 0.911305580946917
+				},
+				{
+					"regionId": "7",
+					"year": 2000,
+					"scenarioValue": 5.251739823215
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 4.98749473190129
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 3.61261544720915
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 2.46814749920427
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 1.93092374526887
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 1.76828271824116
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 1.96027114237247
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 1.98730623503564
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 1.87148719192771
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 1.7670235355516
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 1.65600308308259
+				},
+				{
+					"regionId": "8",
+					"year": 2000,
+					"scenarioValue": 1.885189
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 2.77145675614684
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 2.48814121141235
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 2.96761445711349
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 2.81332715450749
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 2.32039561639385
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 1.93837081331075
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 1.64006683468167
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 1.42401550327935
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 1.25186037895519
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 1.09401454875882
+				},
+				{
+					"regionId": "9",
+					"year": 2000,
+					"scenarioValue": 1.406194588
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 1.3504279134916
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 1.27870712852832
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 1.23530743643674
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 1.10601501215156
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 1.04587482031626
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 0.998772531384508
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 0.959429956298538
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 0.920138938107436
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 0.886828542625726
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 0.853800979229445
+				},
+				{
+					"regionId": "10",
+					"year": 2000,
+					"scenarioValue": 1.6710900755923
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 2.30585040194979
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 1.7158279670844
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 1.37248638647962
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 1.04907232482457
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 0.906152375449046
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 0.785803422980798
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 0.683783560549053
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 0.597146267070461
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 0.525645201864911
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 0.460177877006693
+				},
+				{
+					"regionId": "11",
+					"year": 2000,
+					"scenarioValue": 0.57648952
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 0.64337543361602
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 0.344702108169266
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 0.331852287130778
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 0.293471024888063
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 0.255589430758099
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 0.233797198308039
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 0.208684777518167
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 0.187157678515881
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 0.169622924836939
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 0.152433821566604
+				},
+				{
+					"regionId": "12",
+					"year": 2000,
+					"scenarioValue": 2.2993900195653
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 3.17454395700601
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 2.96114805636836
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 2.98180962366857
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 2.67542148181389
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 2.25411285332095
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 1.94492119555888
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 1.67736095062825
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 1.46220307622658
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 1.28153140047879
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 1.11970819846172
+				},
+				{
+					"regionId": "13",
+					"year": 2000,
+					"scenarioValue": 0.6067808808
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 0.559019185205484
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 0.562403423326376
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 0.66751960818286
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 0.663398634998467
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 0.643962750589757
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 0.581604469823739
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 0.516899723711432
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 0.450895356134698
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 0.421674429874587
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 0.392241065567936
+				},
+				{
+					"regionId": "14",
+					"year": 2000,
+					"scenarioValue": 2.771222
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 2.60328962983381
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 1.85162485607671
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 1.73901912845248
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 1.67769088068284
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 1.57434276245197
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 1.41775186426513
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 1.29880174988123
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 1.21084260941201
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 1.10423941384196
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 0.999649414262453
+				},
+				{
+					"regionId": "15",
+					"year": 2000,
+					"scenarioValue": 0.512819936
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 0.628838721073131
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 0.669320546531704
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 0.583276102461163
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 0.523717775721517
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 0.498468002652225
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 0.483797378323727
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 0.478444237850805
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 0.485360597948568
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 0.465858535780091
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 0.443218307085184
+				},
+				{
+					"regionId": "16",
+					"year": 2000,
+					"scenarioValue": 6.9691238
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 6.71334896911148
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 5.58362838413257
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 4.39227327256759
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 3.8624759156932
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 3.4750426299031
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 3.22742864178216
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 2.97576989906124
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 2.73839103709913
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 2.58790672185027
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 2.42571465840779
+				}
+			],
+			"factor": {
+				"id": "8",
+				"unit": "GtCO2e",
+				"unitShort": "GtCO2e",
+				"title": "Impact"
+			}
+		}
+	},
+	{
+		"9": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 0.121690339951022
+				}
+			],
+			"factor": {
+				"id": "9",
+				"unit": "Trillion $2010",
+				"unitShort": null,
+				"title": "TotalAccumulatedCost"
+			}
+		}
+	},
+	{
+		"10": {
+			"fuelScenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 0.5477049647
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 0.4670193343
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 0.4337538448
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 0.4199838079
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 0.4932598971
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 0.5191111342
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 0.5418757281
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 0.561553679
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 0.5354676177
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 0.5093815565
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 0.8913362702
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 0.7952262791
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 0.8391980579
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 0.8525867536
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 0.8722409124
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 0.8538822376
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 0.8336846265
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 0.8116480793
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 0.8103813947
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 0.8091147101
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 0.8947454043
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 0.7591346258
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 0.8157955766
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 0.8565541933
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 0.8294794097
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 0.8273264971
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 0.826937306
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 0.8283118365
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 0.8186690591
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 0.8090262818
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 0.5983320831
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 0.5611651147
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 0.6114103835
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 0.6682197065
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 0.7224603639
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 0.7727791196
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 0.7951113186
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 0.7894569612
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 0.7580794545
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 0.7267019478
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 0.8322209729
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 0.8058305833
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 0.8703612457
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 0.8885849032
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 0.8969592914
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 0.9070270116
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 0.9174578878
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 0.92825192
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 0.9222556026
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 0.9162592851
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 0.6150632756
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 0.566528486
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 0.5878093132
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 0.6098822842
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 0.6351325047
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 0.6051168892
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 0.5841110909
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 0.5721151096
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 0.5230443936
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 0.4739736777
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 0.7570618641
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 0.7397066342
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 0.6782381883
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 0.6358373703
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 0.6793088976
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 0.7095341581
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 0.7237138048
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 0.7218478376
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 0.7147538432
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 0.7076598487
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 0.6634790528
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 0.7560577185
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 0.7904775315
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 0.7926871719
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 0.793417075
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 0.7944197028
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 0.7895000432
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 0.7786580963
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 0.7626340417
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 0.7466099871
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 0.9234408406
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 0.920839656
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 0.9219550167
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 0.931176029
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 0.937763284
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 0.9422837937
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 0.9451069509
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 0.9462327556
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 0.9482486354
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 0.9502645152
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 0.9587446452
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 0.9109333471
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 0.8945828685
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 0.7782256513
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 0.7877711181
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 0.7964509347
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 0.8068802609
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 0.8190590964
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 0.8317303306
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 0.8444015648
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 0.8328834356
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 0.8386727689
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 0.8643068507
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 0.890695326
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 0.8725685327
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 0.8620528498
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 0.8586616141
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 0.8623948256
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 0.8072843693
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 0.752173913
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 0.7131313278
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 0.7106985238
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 0.7542133163
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 0.7861725988
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 0.7616745625
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 0.7774282021
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 0.7826507231
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 0.7773421256
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 0.7704574248
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 0.7635727239
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 0.8034570973
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 0.8176694474
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 0.8511335112
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 0.8672360631
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 0.8823871552
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 0.8805514453
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 0.8623943949
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 0.8279160037
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 0.8268525455
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 0.8257890874
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 0.8502430229
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 0.9170775333
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 0.8109903104
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 0.855554356
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 0.8514830058
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 0.883655668
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 0.9093502391
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 0.928566719
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 0.9003572773
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 0.8721478356
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 0.8500695819
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 0.8143507757
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 0.7930375623
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 0.7872440457
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 0.825743904
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 0.8605074464
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 0.90887122
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 0.9708352247
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 0.9757571573
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 0.98067909
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 0.8769919497
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 0.8639080187
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 0.875185054
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 0.9167337805
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 0.9371766772
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 0.9213352242
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 0.9051583625
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 0.8886460921
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 0.8793928801
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 0.8701396681
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 0.7982245084
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 0.78924857
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 0.7937422738
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 0.8019295992
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 0.815133568
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 0.8186982479
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 0.8187266424
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 0.8152187516
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 0.7969864544
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 0.7787541572
+				}
+			],
+			"factor": {
+				"id": "10",
+				"unit": "Share",
+				"unitShort": "Share",
+				"title": "Fossil fuel - Primary energy"
+			}
+		}
+	},
+	{
+		"11": {
+			"fuelScenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 0.7820752086
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 0.6166209818
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 0.4815972392
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 0.3128144151
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 0.4097631097
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 0.3818098016
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 0.3657240357
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 0.361505812
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 0.4038759936
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 0.4462461752
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 0.8258076728
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 0.6368163814
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 0.738738853
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 0.7734474679
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 0.8100209885
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 0.7867447365
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 0.7647142854
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 0.7439296351
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 0.7455713327
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 0.7472130303
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 0.7166460404
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 0.4424675757
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 0.6376316143
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 0.7502380797
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 0.7183804492
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 0.7185816432
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 0.7219477805
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 0.7284788612
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 0.7319563985
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 0.7354339359
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 0.1832487218
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 0.071704035
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 0.1838736922
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 0.312770191
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 0.4246436562
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 0.5671429083
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 0.6538666445
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 0.6848148648
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 0.7012676605
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 0.7177204563
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 0.7738704483
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 0.7317963337
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 0.7701863768
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 0.8079087823
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 0.823205862
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 0.8472794979
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 0.8634841926
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 0.8718199463
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 0.8745747655
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 0.8773295846
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 0.1497080499
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 0.039780821
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 0.14032082
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 0.2146311175
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 0.2544591599
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 0.2141446436
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 0.2048529923
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 0.2265842061
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 0.2437435028
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 0.2609027995
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 0.4233683205
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 0.3836247269
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 0.247536327
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 0.1459802888
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 0.220893764
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 0.3290427802
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 0.3943144549
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 0.4167087879
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 0.4433007967
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 0.4698928055
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 0.755437654
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 0.8171702951
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 0.861361243
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 0.8202355113
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 0.8121675328
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 0.792751898
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 0.7776609059
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 0.7668945565
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 0.7607897259
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 0.7546848953
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 0.8418929478
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 0.8363138418
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 0.8457943234
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 0.8541291484
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 0.8941424222
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 0.9029933631
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 0.9095562949
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 0.9138312176
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 0.9175177808
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 0.9212043441
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 0.8747145209
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 0.920781627
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 0.8648352872
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 0.4058868003
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 0.4295702845
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 0.4497836775
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 0.4791398485
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 0.5176387975
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 0.5600642376
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 0.6024896778
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 0.7683277322
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 0.7473556848
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 0.7926662535
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 0.8391275687
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 0.8082343545
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 0.8015279604
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 0.8060575095
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 0.8218230015
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 0.8344423753
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 0.8470617492
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 0.7098449775
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 0.6716562669
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 0.7320564937
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 0.7642964156
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 0.6370719325
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 0.6416084839
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 0.65125779
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 0.6660198508
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 0.6830520215
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 0.7000841923
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 0.4728007132
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 0.5349674156
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 0.6607971698
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 0.713681321
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 0.7549716304
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 0.750566879
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 0.7121651477
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 0.6397664363
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 0.6436629029
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 0.6475593695
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 0.5903980935
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 0.455018665
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 0.5195404745
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 0.6296231792
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 0.6192604443
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 0.7097969121
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 0.7805280573
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 0.8314538799
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 0.8388799317
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 0.8463059834
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 0.6658112744
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 0.6001164405
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 0.572245282
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 0.5793771475
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 0.6673792313
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 0.7484069231
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 0.8487448955
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 0.9683931485
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 0.9777478973
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 0.9871026461
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 0.6946435879
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 0.6552104185
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 0.7108133008
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 0.8126555877
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 0.8481463833
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 0.8321602107
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 0.8198437702
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 0.811197062
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 0.821062056
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 0.8309270501
+				},
+				{
+					"regionId": "0",
+					"year": 2010,
+					"scenarioValue": 0.6386417632
+				},
+				{
+					"regionId": "0",
+					"year": 2020,
+					"scenarioValue": 0.6233607872
+				},
+				{
+					"regionId": "0",
+					"year": 2030,
+					"scenarioValue": 0.6500284903
+				},
+				{
+					"regionId": "0",
+					"year": 2040,
+					"scenarioValue": 0.6589369105
+				},
+				{
+					"regionId": "0",
+					"year": 2050,
+					"scenarioValue": 0.6815375818
+				},
+				{
+					"regionId": "0",
+					"year": 2060,
+					"scenarioValue": 0.6950628979
+				},
+				{
+					"regionId": "0",
+					"year": 2070,
+					"scenarioValue": 0.70114683
+				},
+				{
+					"regionId": "0",
+					"year": 2080,
+					"scenarioValue": 0.6997893778
+				},
+				{
+					"regionId": "0",
+					"year": 2090,
+					"scenarioValue": 0.7064009982
+				},
+				{
+					"regionId": "0",
+					"year": 2100,
+					"scenarioValue": 0.7130126186
+				}
+			],
+			"factor": {
+				"id": "11",
+				"unit": "Share",
+				"unitShort": "Share",
+				"title": "Fossil fuel - Electricity"
+			}
+		}
+	},
+	{
+		"12": {
+			"scenarioValuesAllRegions": [
+				{
+					"regionId": "1",
+					"year": 2010,
+					"scenarioValue": 21.7818
+				},
+				{
+					"regionId": "1",
+					"year": 2020,
+					"scenarioValue": 16.9420921283899
+				},
+				{
+					"regionId": "1",
+					"year": 2030,
+					"scenarioValue": 13.3762809956231
+				},
+				{
+					"regionId": "1",
+					"year": 2040,
+					"scenarioValue": 10.2886164125164
+				},
+				{
+					"regionId": "1",
+					"year": 2050,
+					"scenarioValue": 7.70924887885662
+				},
+				{
+					"regionId": "1",
+					"year": 2060,
+					"scenarioValue": 6.18965009957427
+				},
+				{
+					"regionId": "1",
+					"year": 2070,
+					"scenarioValue": 5.01223673258631
+				},
+				{
+					"regionId": "1",
+					"year": 2080,
+					"scenarioValue": 4.12381034080336
+				},
+				{
+					"regionId": "1",
+					"year": 2090,
+					"scenarioValue": 3.91937616683906
+				},
+				{
+					"regionId": "1",
+					"year": 2100,
+					"scenarioValue": 3.64560884601077
+				},
+				{
+					"regionId": "2",
+					"year": 2010,
+					"scenarioValue": 6.81
+				},
+				{
+					"regionId": "2",
+					"year": 2020,
+					"scenarioValue": 6.02043583660528
+				},
+				{
+					"regionId": "2",
+					"year": 2030,
+					"scenarioValue": 5.00756216257503
+				},
+				{
+					"regionId": "2",
+					"year": 2040,
+					"scenarioValue": 4.16840375820244
+				},
+				{
+					"regionId": "2",
+					"year": 2050,
+					"scenarioValue": 3.76204099336271
+				},
+				{
+					"regionId": "2",
+					"year": 2060,
+					"scenarioValue": 3.34489347979728
+				},
+				{
+					"regionId": "2",
+					"year": 2070,
+					"scenarioValue": 3.01570550733028
+				},
+				{
+					"regionId": "2",
+					"year": 2080,
+					"scenarioValue": 2.7685151790128
+				},
+				{
+					"regionId": "2",
+					"year": 2090,
+					"scenarioValue": 2.51020363327664
+				},
+				{
+					"regionId": "2",
+					"year": 2100,
+					"scenarioValue": 2.31378539391864
+				},
+				{
+					"regionId": "3",
+					"year": 2010,
+					"scenarioValue": 6.147
+				},
+				{
+					"regionId": "3",
+					"year": 2020,
+					"scenarioValue": 8.49029165847422
+				},
+				{
+					"regionId": "3",
+					"year": 2030,
+					"scenarioValue": 9.60236866691113
+				},
+				{
+					"regionId": "3",
+					"year": 2040,
+					"scenarioValue": 9.339899168099
+				},
+				{
+					"regionId": "3",
+					"year": 2050,
+					"scenarioValue": 8.22157027000101
+				},
+				{
+					"regionId": "3",
+					"year": 2060,
+					"scenarioValue": 7.63219494463133
+				},
+				{
+					"regionId": "3",
+					"year": 2070,
+					"scenarioValue": 7.02945910899128
+				},
+				{
+					"regionId": "3",
+					"year": 2080,
+					"scenarioValue": 6.49711882681042
+				},
+				{
+					"regionId": "3",
+					"year": 2090,
+					"scenarioValue": 6.36375033992891
+				},
+				{
+					"regionId": "3",
+					"year": 2100,
+					"scenarioValue": 6.18384994037828
+				},
+				{
+					"regionId": "4",
+					"year": 2010,
+					"scenarioValue": 11.3315
+				},
+				{
+					"regionId": "4",
+					"year": 2020,
+					"scenarioValue": 9.04315993551045
+				},
+				{
+					"regionId": "4",
+					"year": 2030,
+					"scenarioValue": 7.38931544137038
+				},
+				{
+					"regionId": "4",
+					"year": 2040,
+					"scenarioValue": 6.27171201361582
+				},
+				{
+					"regionId": "4",
+					"year": 2050,
+					"scenarioValue": 5.47707292951181
+				},
+				{
+					"regionId": "4",
+					"year": 2060,
+					"scenarioValue": 5.61158964481473
+				},
+				{
+					"regionId": "4",
+					"year": 2070,
+					"scenarioValue": 5.3917787212837
+				},
+				{
+					"regionId": "4",
+					"year": 2080,
+					"scenarioValue": 5.00668121214902
+				},
+				{
+					"regionId": "4",
+					"year": 2090,
+					"scenarioValue": 4.85367437404374
+				},
+				{
+					"regionId": "4",
+					"year": 2100,
+					"scenarioValue": 4.73225470562888
+				},
+				{
+					"regionId": "5",
+					"year": 2010,
+					"scenarioValue": 99.42071
+				},
+				{
+					"regionId": "5",
+					"year": 2020,
+					"scenarioValue": 106.77358447268
+				},
+				{
+					"regionId": "5",
+					"year": 2030,
+					"scenarioValue": 128.750020604801
+				},
+				{
+					"regionId": "5",
+					"year": 2040,
+					"scenarioValue": 129.293260239824
+				},
+				{
+					"regionId": "5",
+					"year": 2050,
+					"scenarioValue": 125.162911389808
+				},
+				{
+					"regionId": "5",
+					"year": 2060,
+					"scenarioValue": 121.171421456133
+				},
+				{
+					"regionId": "5",
+					"year": 2070,
+					"scenarioValue": 114.344055962714
+				},
+				{
+					"regionId": "5",
+					"year": 2080,
+					"scenarioValue": 106.263792523601
+				},
+				{
+					"regionId": "5",
+					"year": 2090,
+					"scenarioValue": 100.660745370843
+				},
+				{
+					"regionId": "5",
+					"year": 2100,
+					"scenarioValue": 95.2711381250856
+				},
+				{
+					"regionId": "6",
+					"year": 2010,
+					"scenarioValue": 24.417
+				},
+				{
+					"regionId": "6",
+					"year": 2020,
+					"scenarioValue": 22.7220792316842
+				},
+				{
+					"regionId": "6",
+					"year": 2030,
+					"scenarioValue": 20.1682633205082
+				},
+				{
+					"regionId": "6",
+					"year": 2040,
+					"scenarioValue": 18.0468434638949
+				},
+				{
+					"regionId": "6",
+					"year": 2050,
+					"scenarioValue": 16.0722173332882
+				},
+				{
+					"regionId": "6",
+					"year": 2060,
+					"scenarioValue": 14.453969348232
+				},
+				{
+					"regionId": "6",
+					"year": 2070,
+					"scenarioValue": 13.0833279031722
+				},
+				{
+					"regionId": "6",
+					"year": 2080,
+					"scenarioValue": 11.8213703885474
+				},
+				{
+					"regionId": "6",
+					"year": 2090,
+					"scenarioValue": 11.7215112913548
+				},
+				{
+					"regionId": "6",
+					"year": 2100,
+					"scenarioValue": 11.4769691990012
+				},
+				{
+					"regionId": "7",
+					"year": 2010,
+					"scenarioValue": 79.901
+				},
+				{
+					"regionId": "7",
+					"year": 2020,
+					"scenarioValue": 55.0605835397392
+				},
+				{
+					"regionId": "7",
+					"year": 2030,
+					"scenarioValue": 41.4478326065351
+				},
+				{
+					"regionId": "7",
+					"year": 2040,
+					"scenarioValue": 34.1003174623996
+				},
+				{
+					"regionId": "7",
+					"year": 2050,
+					"scenarioValue": 28.6723857884436
+				},
+				{
+					"regionId": "7",
+					"year": 2060,
+					"scenarioValue": 30.8820508301879
+				},
+				{
+					"regionId": "7",
+					"year": 2070,
+					"scenarioValue": 30.7801211370422
+				},
+				{
+					"regionId": "7",
+					"year": 2080,
+					"scenarioValue": 29.0645852610573
+				},
+				{
+					"regionId": "7",
+					"year": 2090,
+					"scenarioValue": 27.3008150499951
+				},
+				{
+					"regionId": "7",
+					"year": 2100,
+					"scenarioValue": 25.6873401761052
+				},
+				{
+					"regionId": "8",
+					"year": 2010,
+					"scenarioValue": 21.96
+				},
+				{
+					"regionId": "8",
+					"year": 2020,
+					"scenarioValue": 31.2049699736328
+				},
+				{
+					"regionId": "8",
+					"year": 2030,
+					"scenarioValue": 37.3933040339862
+				},
+				{
+					"regionId": "8",
+					"year": 2040,
+					"scenarioValue": 36.6330845316554
+				},
+				{
+					"regionId": "8",
+					"year": 2050,
+					"scenarioValue": 30.3841884731288
+				},
+				{
+					"regionId": "8",
+					"year": 2060,
+					"scenarioValue": 25.2916225945656
+				},
+				{
+					"regionId": "8",
+					"year": 2070,
+					"scenarioValue": 21.619193637969
+				},
+				{
+					"regionId": "8",
+					"year": 2080,
+					"scenarioValue": 19.2754487804536
+				},
+				{
+					"regionId": "8",
+					"year": 2090,
+					"scenarioValue": 17.2200399843615
+				},
+				{
+					"regionId": "8",
+					"year": 2100,
+					"scenarioValue": 15.5050094604459
+				},
+				{
+					"regionId": "9",
+					"year": 2010,
+					"scenarioValue": 21.983
+				},
+				{
+					"regionId": "9",
+					"year": 2020,
+					"scenarioValue": 17.4227628709415
+				},
+				{
+					"regionId": "9",
+					"year": 2030,
+					"scenarioValue": 15.9514083641616
+				},
+				{
+					"regionId": "9",
+					"year": 2040,
+					"scenarioValue": 14.1930990590756
+				},
+				{
+					"regionId": "9",
+					"year": 2050,
+					"scenarioValue": 13.1826287773259
+				},
+				{
+					"regionId": "9",
+					"year": 2060,
+					"scenarioValue": 12.5325395323869
+				},
+				{
+					"regionId": "9",
+					"year": 2070,
+					"scenarioValue": 11.9898895258731
+				},
+				{
+					"regionId": "9",
+					"year": 2080,
+					"scenarioValue": 11.5239020910952
+				},
+				{
+					"regionId": "9",
+					"year": 2090,
+					"scenarioValue": 11.104322765954
+				},
+				{
+					"regionId": "9",
+					"year": 2100,
+					"scenarioValue": 10.6878395831845
+				},
+				{
+					"regionId": "10",
+					"year": 2010,
+					"scenarioValue": 21.476
+				},
+				{
+					"regionId": "10",
+					"year": 2020,
+					"scenarioValue": 21.1160845961803
+				},
+				{
+					"regionId": "10",
+					"year": 2030,
+					"scenarioValue": 15.6329760642643
+				},
+				{
+					"regionId": "10",
+					"year": 2040,
+					"scenarioValue": 12.5818110129682
+				},
+				{
+					"regionId": "10",
+					"year": 2050,
+					"scenarioValue": 10.9410592469112
+				},
+				{
+					"regionId": "10",
+					"year": 2060,
+					"scenarioValue": 9.39696378454411
+				},
+				{
+					"regionId": "10",
+					"year": 2070,
+					"scenarioValue": 8.07804125073029
+				},
+				{
+					"regionId": "10",
+					"year": 2080,
+					"scenarioValue": 6.95013223436926
+				},
+				{
+					"regionId": "10",
+					"year": 2090,
+					"scenarioValue": 5.93197506757062
+				},
+				{
+					"regionId": "10",
+					"year": 2100,
+					"scenarioValue": 5.11064815245918
+				},
+				{
+					"regionId": "11",
+					"year": 2010,
+					"scenarioValue": 4.075
+				},
+				{
+					"regionId": "11",
+					"year": 2020,
+					"scenarioValue": 3.69349767386897
+				},
+				{
+					"regionId": "11",
+					"year": 2030,
+					"scenarioValue": 3.45764988899008
+				},
+				{
+					"regionId": "11",
+					"year": 2040,
+					"scenarioValue": 3.12781318048037
+				},
+				{
+					"regionId": "11",
+					"year": 2050,
+					"scenarioValue": 2.83740784612566
+				},
+				{
+					"regionId": "11",
+					"year": 2060,
+					"scenarioValue": 2.61940485809392
+				},
+				{
+					"regionId": "11",
+					"year": 2070,
+					"scenarioValue": 2.39463790166186
+				},
+				{
+					"regionId": "11",
+					"year": 2080,
+					"scenarioValue": 2.15406013650545
+				},
+				{
+					"regionId": "11",
+					"year": 2090,
+					"scenarioValue": 2.10505761545631
+				},
+				{
+					"regionId": "11",
+					"year": 2100,
+					"scenarioValue": 2.0420863462421
+				},
+				{
+					"regionId": "12",
+					"year": 2010,
+					"scenarioValue": 27.5966
+				},
+				{
+					"regionId": "12",
+					"year": 2020,
+					"scenarioValue": 30.4817146624021
+				},
+				{
+					"regionId": "12",
+					"year": 2030,
+					"scenarioValue": 29.8696802436622
+				},
+				{
+					"regionId": "12",
+					"year": 2040,
+					"scenarioValue": 26.9827375672897
+				},
+				{
+					"regionId": "12",
+					"year": 2050,
+					"scenarioValue": 23.6501227605086
+				},
+				{
+					"regionId": "12",
+					"year": 2060,
+					"scenarioValue": 20.348212674679
+				},
+				{
+					"regionId": "12",
+					"year": 2070,
+					"scenarioValue": 17.8358738495738
+				},
+				{
+					"regionId": "12",
+					"year": 2080,
+					"scenarioValue": 15.7702193235884
+				},
+				{
+					"regionId": "12",
+					"year": 2090,
+					"scenarioValue": 14.0566816878239
+				},
+				{
+					"regionId": "12",
+					"year": 2100,
+					"scenarioValue": 12.6680932469176
+				},
+				{
+					"regionId": "13",
+					"year": 2010,
+					"scenarioValue": 7.16902
+				},
+				{
+					"regionId": "13",
+					"year": 2020,
+					"scenarioValue": 7.28724467076223
+				},
+				{
+					"regionId": "13",
+					"year": 2030,
+					"scenarioValue": 8.04037304901586
+				},
+				{
+					"regionId": "13",
+					"year": 2040,
+					"scenarioValue": 7.89415124918126
+				},
+				{
+					"regionId": "13",
+					"year": 2050,
+					"scenarioValue": 7.44940666786741
+				},
+				{
+					"regionId": "13",
+					"year": 2060,
+					"scenarioValue": 6.81985326042103
+				},
+				{
+					"regionId": "13",
+					"year": 2070,
+					"scenarioValue": 6.26672226170109
+				},
+				{
+					"regionId": "13",
+					"year": 2080,
+					"scenarioValue": 5.87382416168341
+				},
+				{
+					"regionId": "13",
+					"year": 2090,
+					"scenarioValue": 5.50244558892314
+				},
+				{
+					"regionId": "13",
+					"year": 2100,
+					"scenarioValue": 5.16921780275327
+				},
+				{
+					"regionId": "14",
+					"year": 2010,
+					"scenarioValue": 22.2407
+				},
+				{
+					"regionId": "14",
+					"year": 2020,
+					"scenarioValue": 54.4981162499446
+				},
+				{
+					"regionId": "14",
+					"year": 2030,
+					"scenarioValue": 21.3404835146128
+				},
+				{
+					"regionId": "14",
+					"year": 2040,
+					"scenarioValue": 19.9102096013266
+				},
+				{
+					"regionId": "14",
+					"year": 2050,
+					"scenarioValue": 18.6318590030386
+				},
+				{
+					"regionId": "14",
+					"year": 2060,
+					"scenarioValue": 16.857949398372
+				},
+				{
+					"regionId": "14",
+					"year": 2070,
+					"scenarioValue": 15.1364476275256
+				},
+				{
+					"regionId": "14",
+					"year": 2080,
+					"scenarioValue": 13.706274212892
+				},
+				{
+					"regionId": "14",
+					"year": 2090,
+					"scenarioValue": 13.0083985161312
+				},
+				{
+					"regionId": "14",
+					"year": 2100,
+					"scenarioValue": 12.3532718597021
+				},
+				{
+					"regionId": "15",
+					"year": 2010,
+					"scenarioValue": 10.34033
+				},
+				{
+					"regionId": "15",
+					"year": 2020,
+					"scenarioValue": 9.90988276414861
+				},
+				{
+					"regionId": "15",
+					"year": 2030,
+					"scenarioValue": 8.94879284117321
+				},
+				{
+					"regionId": "15",
+					"year": 2040,
+					"scenarioValue": 8.02331059737184
+				},
+				{
+					"regionId": "15",
+					"year": 2050,
+					"scenarioValue": 7.21571443985627
+				},
+				{
+					"regionId": "15",
+					"year": 2060,
+					"scenarioValue": 6.70948694165541
+				},
+				{
+					"regionId": "15",
+					"year": 2070,
+					"scenarioValue": 6.23963494627476
+				},
+				{
+					"regionId": "15",
+					"year": 2080,
+					"scenarioValue": 5.80027083032898
+				},
+				{
+					"regionId": "15",
+					"year": 2090,
+					"scenarioValue": 5.50405808654911
+				},
+				{
+					"regionId": "15",
+					"year": 2100,
+					"scenarioValue": 5.18534566311739
+				},
+				{
+					"regionId": "16",
+					"year": 2010,
+					"scenarioValue": 102.977
+				},
+				{
+					"regionId": "16",
+					"year": 2020,
+					"scenarioValue": 84.4067798574332
+				},
+				{
+					"regionId": "16",
+					"year": 2030,
+					"scenarioValue": 68.2778251067403
+				},
+				{
+					"regionId": "16",
+					"year": 2040,
+					"scenarioValue": 58.4213616715955
+				},
+				{
+					"regionId": "16",
+					"year": 2050,
+					"scenarioValue": 51.5376743016539
+				},
+				{
+					"regionId": "16",
+					"year": 2060,
+					"scenarioValue": 50.0711097941241
+				},
+				{
+					"regionId": "16",
+					"year": 2070,
+					"scenarioValue": 47.5506385629106
+				},
+				{
+					"regionId": "16",
+					"year": 2080,
+					"scenarioValue": 44.8187484497602
+				},
+				{
+					"regionId": "16",
+					"year": 2090,
+					"scenarioValue": 42.7581953581012
+				},
+				{
+					"regionId": "16",
+					"year": 2100,
+					"scenarioValue": 40.8274161828128
+				}
+			],
+			"factor": {
+				"id": "12",
+				"unit": "EJ",
+				"unitShort": "EJ",
+				"title": "Primary Energy Consumption"
+			}
+		}
+	}
+]
