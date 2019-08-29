@@ -21,3 +21,4 @@ Deployment version:
 
 ## Usage
 
+The public version is available at https://ipat.tokni.com and is updated via Netlify after each commit to the master branch. A staging version is available at http://develop--ipat.netlify.com/
