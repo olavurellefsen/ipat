@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Route, withRouter } from "react-router-dom";
-import ReactGA from "react-ga";
 import LeftMenu from "./LeftMenu";
 import Charts from "./Charts";
 import About from "./pages/About";
@@ -14,9 +13,6 @@ import breakpoint from "styled-components-breakpoint";
 
 import Flex from "./components/Flex";
 import HamburgerIcon from "./utils/HamburgerIcon";
-
-ReactGA.initialize("UA-112171388-1");
-ReactGA.pageview(window.location.pathname + window.location.search);
 
 const MobileHeaderMenu = styled.div`
   display: none;
